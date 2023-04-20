@@ -7,6 +7,10 @@ license = "2023"
 
 [tool.poetry.dependencies]
 python = "^3.10"
+fastapi = "^0.95.1"
+uvicorn = "^0.21.1"
+python-multipart = "^0.0.6"
+peewee = "^3.16.1"
 
 [tool.poetry.dev-dependencies]
 
